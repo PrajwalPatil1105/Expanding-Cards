@@ -1,0 +1,144 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.images{
+    display: flex ;
+}
+
+.images #i1{
+    width: 800px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 80px;
+    border-radius: 60px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.images #i1 #img1{
+    width: 800px;
+    height: 600px;
+    border-radius: 60px;
+    position: fixed;
+}
+
+.images #i1 #font1, #i2 #font2, #i3 #font3, #i4 #font4, #i5 #font5{
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 50px;
+    color: rgb(7, 253, 253);
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
+
+
+.images #i2, #i3, #i4, #i5 {
+    width: 100px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 60px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.images #i2 #img2, #i3 #img3, #i4 #img4, #i5 #img5{
+    width: 100px;
+    height: 600px;
+    border-radius: 60px;
+    position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .images #F{
+    font-size: 20px;
+    margin-left: 120px;
+    position: absolute;
+}
+
+
+.images #img1{
+    width: 800px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 80px;
+    border-radius: 60px;
+    position: relative;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.images #img2{
+    width: 100px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 60px;
+    position: relative;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.images #img3{
+    width: 100px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 60px;
+    position: relative;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.images #img4{
+    width: 100px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 60px;
+    position: relative;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.images #img5{
+    width: 100px;
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 60px;
+    position: relative;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+} */
+
+
